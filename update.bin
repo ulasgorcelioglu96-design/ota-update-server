@@ -1,0 +1,739 @@
+Failed to configure Ethernet
+3191e75a-87a8-4ed2-aa39-f1f05c347376
+UniqueValue: 3191e75a-87a8-4ed2-aa39-f1f05c347376
+Registration true
+VECT_TAB_OFFSET is 0x5000
+File name set to: Artemis32000.bin
+2001-01-01T03:00:10+03:00
+Reset nedeni: Donanımsal Reset (NRST pini)
+Setup OK.
+Ethernet Connect Try Again!
+Try again ethernet begin
+Ethernet ready
+Assigned IP: 192.168.1.132
+30 second loop available.
+10639
+EnableTIM2 Timer.
+RegorAlive Function..
+RegistrationAlive POST request:
+RTC Set OK
+{"RegistrationID":"432585235D7FF3931364650","UniqueValue":"3191e75a-87a8-4ed2-aa39-f1f05c347376","EventDateTime":"2025-10-30T15:55:14+03:00","ArtemisVersion":"29"}
+Client Read : 41
+{"status":1,"message":"","data":"279482528425992271442616425284"}
+0
+
+
+Response does not contain 'Restart/'
+Alinan Data: 279482528425992271442616425284
+Writing EEPROM if EEPROM Password not same...
+DisableTIM2 Timer.
+Door1 is Opened
+Door2 is Opened
+Send HardReset Request
+HardReset POST request: 
+{"RegistrationID":"432585235D7FF3931364650","UniqueValue":"3191e75a-87a8-4ed2-aa39-f1f05c347376","EventDateTime":"2025-10-30T15:55:14+03:00"}Client Read: 0
+
+PowerStatus POST request: 
+{"RegistrationID":"432585235D7FF3931364650","UniqueValue":"3191e75a-87a8-4ed2-aa39-f1f05c347376","PowerStatus":true,"EventDateTime":"2025-10-30T15:55:14+03:00"}Client Read: 25
+{"status":1,"message":"","data":null}
+0
+
+BatteryStatus POST request finished:  
+{"RegistrationID":"432585235D7FF3931364650","UniqueValue":"3191e75a-87a8-4ed2-aa39-f1f05c347376","BatteryStatus":true,"EventDateTime":"2025-10-30T15:55:14+03:00"}Client Read: 25
+{"status":1,"message":"","data":null}
+0
+
+Send Door Request
+DoorPosition1 POST request: 
+{"RegistrationID":"432585235D7FF3931364650","UniqueValue":"3191e75a-87a8-4ed2-aa39-f1f05c347376","DoorPosition":true,"EventDateTime":"2025-10-30T15:55:15+03:00"}Client Read: 25
+{"status":1,"message":"","data":null}
+0
+
+DoorPosition2 POST request: 
+{"RegistrationID":"432585235D7FF3931364650","UniqueValue":"3191e75a-87a8-4ed2-aa39-f1f05c347376","DoorPosition":true,"EventDateTime":"2025-10-30T15:55:15+03:00"}Client Read: 25
+{"status":1,"message":"","data":null}
+0
+
+30 second loop available.
+30001
+EnableTIM2 Timer.
+RegorAlive Function..
+RegistrationAlive POST request:
+{"RegistrationID":"432585235D7FF3931364650","UniqueValue":"3191e75a-87a8-4ed2-aa39-f1f05c347376","EventDateTime":"2025-10-30T15:55:44+03:00","ArtemisVersion":"29"}
+Client Read : 41
+{"status":1,"message":"","data":"279482528425992271442616425284"}
+0
+
+
+Response does not contain 'Restart/'
+Alinan Data: 279482528425992271442616425284
+Writing EEPROM if EEPROM Password not same...
+DisableTIM2 Timer.
+30 second loop available.
+30001
+EnableTIM2 Timer.
+RegorAlive Function..
+RegistrationAlive POST request:
+{"RegistrationID":"432585235D7FF3931364650","UniqueValue":"3191e75a-87a8-4ed2-aa39-f1f05c347376","EventDateTime":"2025-10-30T15:56:15+03:00","ArtemisVersion":"29"}
+Client Read : 41
+{"status":1,"message":"","data":"279482528425992271442616425284"}
+0
+
+
+Response does not contain 'Restart/'
+Alinan Data: 279482528425992271442616425284
+Writing EEPROM if EEPROM Password not same...
+DisableTIM2 Timer.
+White Color Detected, Black Waiting!
+Trigger True!
+Ready to read colors
+Starting Algorithm
+Online Password Mode
+Start Read Colors
+G,B,B,B,G,B,G,B,G,G,G,B,B,B,B,GColors Password: 1000011101010001Password:8751
+Online Mode On
+Password POST request:  
+
+{"RegistrationID":"432585235D7FF3931364650","UniqueValue":"3191e75a-87a8-4ed2-aa39-f1f05c347376","Password":"8751","EventDateTime":"2025-10-30T15:56:31+03:00"}Client Read: 32
+{"status":0,"message":"PasswordError","data":null}
+0
+
+Fail True
+Fail Mode : 4 PasswordNotMatch
+White Color Detected, Black Waiting!
+Trigger True!
+Ready to read colors
+Starting Algorithm
+Online Password Mode
+Start Read Colors
+G,G,B,B,G,B,B,G,G,B,B,G,B,B,B,GColors Password: 1000100110010011Password:8993
+Online Mode On
+Password POST request:  
+
+{"RegistrationID":"432585235D7FF3931364650","UniqueValue":"3191e75a-87a8-4ed2-aa39-f1f05c347376","Password":"8993","EventDateTime":"2025-10-30T15:56:50+03:00"}Client Read: 32
+{"status":0,"message":"PasswordError","data":null}
+0
+
+Fail True
+Fail Mode : 4 PasswordNotMatch
+White Color Detected, Black Waiting!
+30 second loop available.
+30001
+EnableTIM2 Timer.
+RegorAlive Function..
+RegistrationAlive POST request:
+{"RegistrationID":"432585235D7FF3931364650","UniqueValue":"3191e75a-87a8-4ed2-aa39-f1f05c347376","EventDateTime":"2025-10-30T15:57:16+03:00","ArtemisVersion":"29"}
+Client Read : 41
+{"status":1,"message":"","data":"279482528425992271442616425284"}
+0
+
+
+Response does not contain 'Restart/'
+Alinan Data: 279482528425992271442616425284
+Writing EEPROM if EEPROM Password not same...
+DisableTIM2 Timer.
+30 second loop available.
+30001
+EnableTIM2 Timer.
+RegorAlive Function..
+RegistrationAlive POST request:
+{"RegistrationID":"432585235D7FF3931364650","UniqueValue":"3191e75a-87a8-4ed2-aa39-f1f05c347376","EventDateTime":"2025-10-30T15:57:47+03:00","ArtemisVersion":"29"}
+Client Read : 41
+{"status":1,"message":"","data":"279482528425992271442616425284"}
+0
+
+
+Response does not contain 'Restart/'
+Alinan Data: 279482528425992271442616425284
+Writing EEPROM if EEPROM Password not same...
+DisableTIM2 Timer.
+30 second loop available.
+30001
+EnableTIM2 Timer.
+RegorAlive Function..
+RegistrationAlive POST request:
+{"RegistrationID":"432585235D7FF3931364650","UniqueValue":"3191e75a-87a8-4ed2-aa39-f1f05c347376","EventDateTime":"2025-10-30T15:58:17+03:00","ArtemisVersion":"29"}
+Client Read : 41
+{"status":1,"message":"","data":"279482528425992271442616425284"}
+0
+
+
+Response does not contain 'Restart/'
+Alinan Data: 279482528425992271442616425284
+Writing EEPROM if EEPROM Password not same...
+DisableTIM2 Timer.
+30 second loop available.
+30001
+EnableTIM2 Timer.
+RegorAlive Function..
+RegistrationAlive POST request:
+{"RegistrationID":"432585235D7FF3931364650","UniqueValue":"3191e75a-87a8-4ed2-aa39-f1f05c347376","EventDateTime":"2025-10-30T15:58:48+03:00","ArtemisVersion":"29"}
+Client Read : 41
+{"status":1,"message":"","data":"279482528425992271442616425284"}
+0
+
+
+Response does not contain 'Restart/'
+Alinan Data: 279482528425992271442616425284
+Writing EEPROM if EEPROM Password not same...
+DisableTIM2 Timer.
+30 second loop available.
+30001
+EnableTIM2 Timer.
+RegorAlive Function..
+RegistrationAlive POST request:
+{"RegistrationID":"432585235D7FF3931364650","UniqueValue":"3191e75a-87a8-4ed2-aa39-f1f05c347376","EventDateTime":"2025-10-30T15:59:18+03:00","ArtemisVersion":"29"}
+Client Read : 41
+{"status":1,"message":"","data":"279482528425992271442616425284"}
+0
+
+
+Response does not contain 'Restart/'
+Alinan Data: 279482528425992271442616425284
+Writing EEPROM if EEPROM Password not same...
+DisableTIM2 Timer.
+
+
+Bootloader for Artemis STM32F103RCT V2.1.3
+00x0807FAB0 App Works Check Bit: FF
+1st App Adress
+
+0x0807FA30 Ethernet Configuration: 0E0x0807F910 Update is Necessary? : FF
+Update is not necessary 
+
+0x0807F902 FTP Size is : 1
+
+Jump to 1st App Address
+It can jump to LAST application
+
+EEPROM length: 2043
+Start Flash Address: 0x807F800
+[FLASH] REGISTERED_NUMBER_FLASH_SECTORS (KB) = 256
+[FLASH] USING_FLASH_SECTOR_NUMBER =  255
+Program Starting
+Initial PHYCFGR Value: 0xBA
+PHYCFGR Bit Analysis:
+  Bit 7 (RST): 1 (PHY is enabled)
+  Bit 6 (OPMD): 0 (PHY mode controlled by PMODE pins)
+  Bits 5-3 (OPMDC[2:0]): 111 (Auto-Negotiation enabled,All capable
+  Bit 2 (DUP - Duplex Status): 0 (Half-Duplex)
+  Bit 1 (SPD - Speed Status): 1 (100 Mbps)
+  Bit 0 (LINK - Link Status): 0 (Link is down)
+Configured PHYCFGR Value: 0xDE
+PHY Reset (RST=0)
+PHY Reset Complete (RST=1)
+Final PHYCFGR Value: 0xDE
+PHYCFGR Bit Analysis:
+  Bit 7 (RST): 1 (PHY is enabled)
+  Bit 6 (OPMD): 1 (PHY mode controlled by software)
+  Bits 5-3 (OPMDC[2:0]): 11 (Auto-Negotiation disabled,100 Mbps Full-Duplex
+  Bit 2 (DUP - Duplex Status): 1 (Full-Duplex)
+  Bit 1 (SPD - Speed Status): 1 (100 Mbps)
+  Bit 0 (LINK - Link Status): 0 (Link is down)
+EEPROM read : 279482528425992271442616425284
+Password from server: 7481
+
+Unique ID REG_1: 5D7FF39
+Reg1: 5D7FF39
+Unique ID REG_2: 31364650
+Reg2: 31364650
+Unique ID REG_3: 43258523
+Reg3: 43258523
+Unique Register: 432585235D7FF3931364650
+
+MAC Created...
+MAC Address: DE:AD:BE:1A:7A:F2
+Initialize Ethernet
+IP Address: 
+192.168.1.132  
+Subnet Address: 
+255.255.255.0  
+Gateway Address: 
+192.168.1.10   
+atmNo: 
+Parsed IP Address: 192.168.1.132
+Parsed Subnet Address: 255.255.255.0
+Parsed Gateway Address: 192.168.1.10
+Ethernet ready
+Assigned IP: 192.168.1.132
+Socket OK.
+3191e75a-87a8-4ed2-aa39-f1f05c347376
+UniqueValue: 3191e75a-87a8-4ed2-aa39-f1f05c347376
+Registration true
+VECT_TAB_OFFSET is 0x5000
+File name set to: Artemis32000.bin
+White Color Detected, Black Waiting!
+RTC Set OK
+2025-10-30T15:59:36+03:00
+Reset nedeni: Donanımsal Reset (NRST pini)
+Setup OK.
+30 second loop available.
+2866
+EnableTIM2 Timer.
+RegorAlive Function..
+RegistrationAlive POST request:
+{"RegistrationID":"432585235D7FF3931364650","UniqueValue":"3191e75a-87a8-4ed2-aa39-f1f05c347376","EventDateTime":"2025-10-30T15:59:36+03:00","ArtemisVersion":"29"}
+Client Read : 41
+{"status":1,"message":"","data":"279482528425992271442616425284"}
+0
+
+
+Response does not contain 'Restart/'
+Alinan Data: 279482528425992271442616425284
+Writing EEPROM if EEPROM Password not same...
+DisableTIM2 Timer.
+Door1 is Opened
+Door2 is Opened
+Send HardReset Request
+HardReset POST request: 
+{"RegistrationID":"432585235D7FF3931364650","UniqueValue":"3191e75a-87a8-4ed2-aa39-f1f05c347376","EventDateTime":"2025-10-30T15:59:36+03:00"}Client Read: 0
+
+PowerStatus POST request: 
+{"RegistrationID":"432585235D7FF3931364650","UniqueValue":"3191e75a-87a8-4ed2-aa39-f1f05c347376","PowerStatus":true,"EventDateTime":"2025-10-30T15:59:36+03:00"}Client Read: 25
+{"status":1,"message":"","data":null}
+0
+
+BatteryStatus POST request finished:  
+{"RegistrationID":"432585235D7FF3931364650","UniqueValue":"3191e75a-87a8-4ed2-aa39-f1f05c347376","BatteryStatus":true,"EventDateTime":"2025-10-30T15:59:37+03:00"}Client Read: 25
+{"status":1,"message":"","data":null}
+0
+
+Send Door Request
+DoorPosition1 POST request: 
+{"RegistrationID":"432585235D7FF3931364650","UniqueValue":"3191e75a-87a8-4ed2-aa39-f1f05c347376","DoorPosition":true,"EventDateTime":"2025-10-30T15:59:37+03:00"}Client Read: 25
+{"status":1,"message":"","data":null}
+0
+
+DoorPosition2 POST request: 
+{"RegistrationID":"432585235D7FF3931364650","UniqueValue":"3191e75a-87a8-4ed2-aa39-f1f05c347376","DoorPosition":true,"EventDateTime":"2025-10-30T15:59:37+03:00"}Client Read: 25
+{"status":1,"message":"","data":null}
+0
+
+30 second loop available.
+30001
+EnableTIM2 Timer.
+RegorAlive Function..
+RegistrationAlive POST request:
+{"RegistrationID":"432585235D7FF3931364650","UniqueValue":"3191e75a-87a8-4ed2-aa39-f1f05c347376","EventDateTime":"2025-10-30T16:00:07+03:00","ArtemisVersion":"29"}
+Client Read : 41
+{"status":1,"message":"","data":"279482528425992271442616425284"}
+0
+
+
+Response does not contain 'Restart/'
+Alinan Data: 279482528425992271442616425284
+Writing EEPROM if EEPROM Password not same...
+DisableTIM2 Timer.
+30 second loop available.
+30001
+EnableTIM2 Timer.
+RegorAlive Function..
+RegistrationAlive POST request:
+{"RegistrationID":"432585235D7FF3931364650","UniqueValue":"3191e75a-87a8-4ed2-aa39-f1f05c347376","EventDateTime":"2025-10-30T16:00:37+03:00","ArtemisVersion":"29"}
+Client Read : 41
+{"status":1,"message":"","data":"279482528425992271442616425284"}
+0
+
+
+Response does not contain 'Restart/'
+Alinan Data: 279482528425992271442616425284
+Writing EEPROM if EEPROM Password not same...
+DisableTIM2 Timer.
+30 second loop available.
+30001
+EnableTIM2 Timer.
+RegorAlive Function..
+RegistrationAlive POST request:
+{"RegistrationID":"432585235D7FF3931364650","UniqueValue":"3191e75a-87a8-4ed2-aa39-f1f05c347376","EventDateTime":"2025-10-30T16:01:08+03:00","ArtemisVersion":"29"}
+Client Read : 41
+{"status":1,"message":"","data":"279482528425992271442616425284"}
+0
+
+
+Response does not contain 'Restart/'
+Alinan Data: 279482528425992271442616425284
+Writing EEPROM if EEPROM Password not same...
+DisableTIM2 Timer.
+Trigger True!
+Ready to read colors
+Starting Algorithm
+Online Password Mode
+Start Read Colors
+G,B,B,B,G,B,G,B,B,B,G,B,B,B,B,GColors Password: 1000010001010001Password:8451
+Online Mode On
+Password POST request:  
+
+{"RegistrationID":"432585235D7FF3931364650","UniqueValue":"3191e75a-87a8-4ed2-aa39-f1f05c347376","Password":"8451","EventDateTime":"2025-10-30T16:01:20+03:00"}Client Read: 3a
+{"status":1,"message":"PasswordAuthenticated","data":null}
+0
+
+Fail False
+
+Password correct!
+White Color Detected, Black Waiting!
+Trigger True!
+Ready to read colors
+Starting Algorithm
+Online Password Mode
+Start Read Colors
+G,G,G,B,B,G,B,B,B,B,G,B,G,B,B,BColors Password: 0001010000100111Password:1427
+Online Mode On
+Password POST request:  
+
+{"RegistrationID":"432585235D7FF3931364650","UniqueValue":"3191e75a-87a8-4ed2-aa39-f1f05c347376","Password":"1427","EventDateTime":"2025-10-30T16:01:37+03:00"}Client Read: 32
+{"status":0,"message":"PasswordError","data":null}
+0
+
+Fail True
+Fail Mode : 4 PasswordNotMatch
+White Color Detected, Black Waiting!
+Trigger True!
+Ready to read colors
+Starting Algorithm
+Offline Password Mode
+Start Read Colors
+G,B,B,B,B,B,B,G,B,B,G,B,G,G,G,BColors Password: 0111010010000001Password:7481
+Offline Mode On
+
+Password correct!
+White Color Detected, Black Waiting!
+30 second loop available.
+30001
+EnableTIM2 Timer.
+RegorAlive Function..
+RegistrationAlive POST request:
+{"RegistrationID":"432585235D7FF3931364650","UniqueValue":"3191e75a-87a8-4ed2-aa39-f1f05c347376","EventDateTime":"2025-10-30T16:02:21+03:00","ArtemisVersion":"29"}
+Client Read : 41
+{"status":1,"message":"","data":"279482528425992271442616425284"}
+0
+
+
+Response does not contain 'Restart/'
+Alinan Data: 279482528425992271442616425284
+Writing EEPROM if EEPROM Password not same...
+DisableTIM2 Timer.
+30 second loop available.
+30001
+EnableTIM2 Timer.
+RegorAlive Function..
+RegistrationAlive POST request:
+{"RegistrationID":"432585235D7FF3931364650","UniqueValue":"3191e75a-87a8-4ed2-aa39-f1f05c347376","EventDateTime":"2025-10-30T16:02:51+03:00","ArtemisVersion":"29"}
+Client Read : 41
+{"status":1,"message":"","data":"279482528425992271442616425284"}
+0
+
+
+Response does not contain 'Restart/'
+Alinan Data: 279482528425992271442616425284
+Writing EEPROM if EEPROM Password not same...
+DisableTIM2 Timer.
+30 second loop available.
+30001
+EnableTIM2 Timer.
+RegorAlive Function..
+RegistrationAlive POST request:
+{"RegistrationID":"432585235D7FF3931364650","UniqueValue":"3191e75a-87a8-4ed2-aa39-f1f05c347376","EventDateTime":"2025-10-30T16:03:22+03:00","ArtemisVersion":"29"}
+Client Read : 41
+{"status":1,"message":"","data":"279482528425992271442616425284"}
+0
+
+
+Response does not contain 'Restart/'
+Alinan Data: 279482528425992271442616425284
+Writing EEPROM if EEPROM Password not same...
+DisableTIM2 Timer.
+Trigger True!
+Ready to read colors
+Starting Algorithm
+Online Password Mode
+Start Read Colors
+G,B,G,B,G,B,B,B,G,B,B,G,G,B,G,BColors Password: 0101100100010101Password:5915
+Online Mode On
+Password POST request:  
+
+{"RegistrationID":"432585235D7FF3931364650","UniqueValue":"3191e75a-87a8-4ed2-aa39-f1f05c347376","Password":"5915","EventDateTime":"2025-10-30T16:03:34+03:00"}Client Read: 3a
+{"status":1,"message":"PasswordAuthenticated","data":null}
+0
+
+Fail False
+
+Password correct!
+White Color Detected, Black Waiting!
+30 second loop available.
+30001
+EnableTIM2 Timer.
+RegorAlive Function..
+RegistrationAlive POST request:
+{"RegistrationID":"432585235D7FF3931364650","UniqueValue":"3191e75a-87a8-4ed2-aa39-f1f05c347376","EventDateTime":"2025-10-30T16:04:00+03:00","ArtemisVersion":"29"}
+Client Read : 41
+{"status":1,"message":"","data":"279482528425992271442616425284"}
+0
+
+
+Response does not contain 'Restart/'
+Alinan Data: 279482528425992271442616425284
+Writing EEPROM if EEPROM Password not same...
+DisableTIM2 Timer.
+Trigger True!
+Ready to read colors
+Starting Algorithm
+Offline Password Mode
+Start Read Colors
+G,B,B,B,B,B,B,G,B,B,G,B,G,G,G,BColors Password: 0111010010000001Password:7481
+Offline Mode On
+
+Password correct!
+White Color Detected, Black Waiting!
+30 second loop available.
+30001
+EnableTIM2 Timer.
+RegorAlive Function..
+RegistrationAlive POST request:
+{"RegistrationID":"432585235D7FF3931364650","UniqueValue":"3191e75a-87a8-4ed2-aa39-f1f05c347376","EventDateTime":"2025-10-30T16:04:32+03:00","ArtemisVersion":"29"}
+Client Read : 41
+{"status":1,"message":"","data":"279482528425992271442616425284"}
+0
+
+
+Response does not contain 'Restart/'
+Alinan Data: 279482528425992271442616425284
+Writing EEPROM if EEPROM Password not same...
+DisableTIM2 Timer.
+30 second loop available.
+30001
+EnableTIM2 Timer.
+RegorAlive Function..
+RegistrationAlive POST request:
+{"RegistrationID":"432585235D7FF3931364650","UniqueValue":"3191e75a-87a8-4ed2-aa39-f1f05c347376","EventDateTime":"2025-10-30T16:05:02+03:00","ArtemisVersion":"29"}
+Client Read : 41
+{"status":1,"message":"","data":"279482528425992271442616425284"}
+0
+
+
+Response does not contain 'Restart/'
+Alinan Data: 279482528425992271442616425284
+Writing EEPROM if EEPROM Password not same...
+DisableTIM2 Timer.
+30 second loop available.
+30001
+EnableTIM2 Timer.
+RegorAlive Function..
+RegistrationAlive POST request:
+{"RegistrationID":"432585235D7FF3931364650","UniqueValue":"3191e75a-87a8-4ed2-aa39-f1f05c347376","EventDateTime":"2025-10-30T16:05:33+03:00","ArtemisVersion":"29"}
+Client Read : 41
+{"status":1,"message":"","data":"279482528425992271442616425284"}
+0
+
+
+Response does not contain 'Restart/'
+Alinan Data: 279482528425992271442616425284
+Writing EEPROM if EEPROM Password not same...
+DisableTIM2 Timer.
+30 second loop available.
+30001
+EnableTIM2 Timer.
+RegorAlive Function..
+RegistrationAlive POST request:
+{"RegistrationID":"432585235D7FF3931364650","UniqueValue":"3191e75a-87a8-4ed2-aa39-f1f05c347376","EventDateTime":"2025-10-30T16:06:04+03:00","ArtemisVersion":"29"}
+Client Read : 41
+{"status":1,"message":"","data":"279482528425992271442616425284"}
+0
+
+
+Response does not contain 'Restart/'
+Alinan Data: 279482528425992271442616425284
+Writing EEPROM if EEPROM Password not same...
+DisableTIM2 Timer.
+30 second loop available.
+30001
+EnableTIM2 Timer.
+RegorAlive Function..
+RegistrationAlive POST request:
+{"RegistrationID":"432585235D7FF3931364650","UniqueValue":"3191e75a-87a8-4ed2-aa39-f1f05c347376","EventDateTime":"2025-10-30T16:06:34+03:00","ArtemisVersion":"29"}
+Client Read : 41
+{"status":1,"message":"","data":"279482528425992271442616425284"}
+0
+
+
+Response does not contain 'Restart/'
+Alinan Data: 279482528425992271442616425284
+Writing EEPROM if EEPROM Password not same...
+DisableTIM2 Timer.
+30 second loop available.
+30001
+EnableTIM2 Timer.
+RegorAlive Function..
+RegistrationAlive POST request:
+{"RegistrationID":"432585235D7FF3931364650","UniqueValue":"3191e75a-87a8-4ed2-aa39-f1f05c347376","EventDateTime":"2025-10-30T16:07:05+03:00","ArtemisVersion":"29"}
+Client Read : 41
+{"status":1,"message":"","data":"279482528425992271442616425284"}
+0
+
+
+Response does not contain 'Restart/'
+Alinan Data: 279482528425992271442616425284
+Writing EEPROM if EEPROM Password not same...
+DisableTIM2 Timer.
+30 second loop available.
+30001
+EnableTIM2 Timer.
+RegorAlive Function..
+RegistrationAlive POST request:
+{"RegistrationID":"432585235D7FF3931364650","UniqueValue":"3191e75a-87a8-4ed2-aa39-f1f05c347376","EventDateTime":"2025-10-30T16:07:35+03:00","ArtemisVersion":"29"}
+Client Read : 41
+{"status":1,"message":"","data":"279482528425992271442616425284"}
+0
+
+
+Response does not contain 'Restart/'
+Alinan Data: 279482528425992271442616425284
+Writing EEPROM if EEPROM Password not same...
+DisableTIM2 Timer.
+30 second loop available.
+30001
+EnableTIM2 Timer.
+RegorAlive Function..
+RegistrationAlive POST request:
+{"RegistrationID":"432585235D7FF3931364650","UniqueValue":"3191e75a-87a8-4ed2-aa39-f1f05c347376","EventDateTime":"2025-10-30T16:08:06+03:00","ArtemisVersion":"29"}
+Client Read : 41
+{"status":1,"message":"","data":"279482528425992271442616425284"}
+0
+
+
+Response does not contain 'Restart/'
+Alinan Data: 279482528425992271442616425284
+Writing EEPROM if EEPROM Password not same...
+DisableTIM2 Timer.
+30 second loop available.
+30001
+EnableTIM2 Timer.
+RegorAlive Function..
+RegistrationAlive POST request:
+{"RegistrationID":"432585235D7FF3931364650","UniqueValue":"3191e75a-87a8-4ed2-aa39-f1f05c347376","EventDateTime":"2025-10-30T16:08:36+03:00","ArtemisVersion":"29"}
+Client Read : 41
+{"status":1,"message":"","data":"279482528425992271442616425284"}
+0
+
+
+Response does not contain 'Restart/'
+Alinan Data: 279482528425992271442616425284
+Writing EEPROM if EEPROM Password not same...
+DisableTIM2 Timer.
+30 second loop available.
+30001
+EnableTIM2 Timer.
+RegorAlive Function..
+RegistrationAlive POST request:
+{"RegistrationID":"432585235D7FF3931364650","UniqueValue":"3191e75a-87a8-4ed2-aa39-f1f05c347376","EventDateTime":"2025-10-30T16:09:07+03:00","ArtemisVersion":"29"}
+Client Read : 41
+{"status":1,"message":"","data":"279482528425992271442616425284"}
+0
+
+
+Response does not contain 'Restart/'
+Alinan Data: 279482528425992271442616425284
+Writing EEPROM if EEPROM Password not same...
+DisableTIM2 Timer.
+30 second loop available.
+30001
+EnableTIM2 Timer.
+RegorAlive Function..
+RegistrationAlive POST request:
+{"RegistrationID":"432585235D7FF3931364650","UniqueValue":"3191e75a-87a8-4ed2-aa39-f1f05c347376","EventDateTime":"2025-10-30T16:09:38+03:00","ArtemisVersion":"29"}
+Client Read : 41
+{"status":1,"message":"","data":"279482528425992271442616425284"}
+0
+
+
+Response does not contain 'Restart/'
+Alinan Data: 279482528425992271442616425284
+Writing EEPROM if EEPROM Password not same...
+DisableTIM2 Timer.
+30 second loop available.
+30001
+EnableTIM2 Timer.
+RegorAlive Function..
+RegistrationAlive POST request:
+{"RegistrationID":"432585235D7FF3931364650","UniqueValue":"3191e75a-87a8-4ed2-aa39-f1f05c347376","EventDateTime":"2025-10-30T16:10:08+03:00","ArtemisVersion":"29"}
+Client Read : 41
+{"status":1,"message":"","data":"279482528425992271442616425284"}
+0
+
+
+Response does not contain 'Restart/'
+Alinan Data: 279482528425992271442616425284
+Writing EEPROM if EEPROM Password not same...
+DisableTIM2 Timer.
+30 second loop available.
+30001
+EnableTIM2 Timer.
+RegorAlive Function..
+RegistrationAlive POST request:
+{"RegistrationID":"432585235D7FF3931364650","UniqueValue":"3191e75a-87a8-4ed2-aa39-f1f05c347376","EventDateTime":"2025-10-30T16:10:39+03:00","ArtemisVersion":"29"}
+Client Read : 41
+{"status":1,"message":"","data":"279482528425992271442616425284"}
+0
+
+
+Response does not contain 'Restart/'
+Alinan Data: 279482528425992271442616425284
+Writing EEPROM if EEPROM Password not same...
+DisableTIM2 Timer.
+Press Start Time.
+Wrong Allert for Button!
+30 second loop available.
+30001
+EnableTIM2 Timer.
+RegorAlive Function..
+RegistrationAlive POST request:
+{"RegistrationID":"432585235D7FF3931364650","UniqueValue":"3191e75a-87a8-4ed2-aa39-f1f05c347376","EventDateTime":"2025-10-30T16:11:09+03:00","ArtemisVersion":"29"}
+Client Read : 41
+{"status":1,"message":"","data":"279482528425992271442616425284"}
+0
+
+
+Response does not contain 'Restart/'
+Alinan Data: 279482528425992271442616425284
+Writing EEPROM if EEPROM Password not same...
+DisableTIM2 Timer.
+30 second loop available.
+30001
+EnableTIM2 Timer.
+RegorAlive Function..
+RegistrationAlive POST request:
+{"RegistrationID":"432585235D7FF3931364650","UniqueValue":"3191e75a-87a8-4ed2-aa39-f1f05c347376","EventDateTime":"2025-10-30T16:11:40+03:00","ArtemisVersion":"29"}
+Client Read : 41
+{"status":1,"message":"","data":"279482528425992271442616425284"}
+0
+
+
+Response does not contain 'Restart/'
+Alinan Data: 279482528425992271442616425284
+Writing EEPROM if EEPROM Password not same...
+DisableTIM2 Timer.
+Trigger True!
+Ready to read colors
+Starting Algorithm
+Online Password Mode
+Start Read Colors
+B,G,B,B,G,G,G,B,G,G,G,B,G,G,G,BColors Password: 0111011101110010Password:7772
+Online Mode On
+Password POST request:  
+
+{"RegistrationID":"432585235D7FF3931364650","UniqueValue":"3191e75a-87a8-4ed2-aa39-f1f05c347376","Password":"7772","EventDateTime":"2025-10-30T16:12:12+03:00"}Client Read: 32
+{"status":0,"message":"PasswordError","data":null}
+0
+
+Fail True
+Fail Mode : 4 PasswordNotMatch
+White Color Detected, Black Waiting!
+Trigger True!
+Ready to read colors
+Starting Algorithm
+Offline Password Mode
+Start Read Colors
+G,B,B,B,B,B,B,G,B,B,G,B,G,G,G,BColors Password: 0111010010000001Password:7481
+Offline Mode On
+
+Password correct!
+White Color Detected, Black Waiting!
